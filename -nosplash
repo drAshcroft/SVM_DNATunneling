@@ -1,0 +1,74 @@
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE\DataLoaders.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE\GUILayout-v1p10.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\CORE\GUILayout-v1p10\layoutHelp.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\CORE\GUILayout-v1p10\layoutHelp\Examples.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\CORE\GUILayout-v1p10\layoutHelp\helpsearch.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\CORE\GUILayout-v1p10\layoutHelp\Images.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\CORE\GUILayout-v1p10\layoutHelp\References.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\CORE\GUILayout-v1p10\Patch.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE\MouseHandlers.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE\Utils.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE\View.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\CORE\View\Icons.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\AdaptScalSVM.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\featselreg.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\FeatureSelection.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\kbp.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\libsvminterface.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\regpath.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\svmroc.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My Documents\MATLAB\SVM-KM\utilities.} 
+{Warning: Name is nonexistent or not a directory: \\biofs.asurite.ad.asu.edu\smb\Users\bashc\My
+Documents\MATLAB\SVM-KM\waveletkernelmultires.} 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+C:\Development\svmsignalanalysis\dlls\bin\64-bit\nilibddc.dll
+C:\Development\svmsignalanalysis\dlls\include\64-bit\nilibddc_m.h
+===============================
+LoadingXLSParameters
+
+doAnalysis =
+
+     1
+
+
+batchExcel =
+
+c:\data\FlowThrough_Benzimidazole_4pA_TGAmCC_test2.xlsx
+
+{Warning: File '~$c:\data\FlowThrough_Benzimidazole_4pA_TGAmCC_test2.xlsx' not found.} 
+{> In LoadXLSParameters at 72
+  In Master at 34
+  In run at 57} 
+===============================
+Undefined function 'fetch' for input arguments of type 'struct'.
+
+
+C:\Development\svmsignalanalysis\Files\SaveFolders.m
+SaveFolders
+24
+
+
+
+C:\Development\svmsignalanalysis\Master.m
+Master
+61
+
+
+
+C:\Program Files\MATLAB\R2012a\toolbox\matlab\lang\run.m
+run
+57
+
+
+
