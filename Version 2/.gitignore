@@ -21,6 +21,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+[Dd]lls/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -216,3 +217,6 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+*.lib
+Loaders/nilibddc_thunk_pcwin64.exp
+*.asv
